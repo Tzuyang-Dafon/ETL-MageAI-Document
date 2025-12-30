@@ -1,8 +1,8 @@
-# Document-Template
+# MageAI 使用說明
 
 ![](https://img.shields.io/badge/Generator-mdbook-black?logo=mdbook&logoColor=black&labelColor=white)
 
-本專案是{{ Lorem ipsum dolor }}。
+本專案是 MageAI 的使用說明。
 
 使用 Markdown 來撰寫。
 
