@@ -121,11 +121,10 @@ def load_data_from_api(*args, **kwargs):
 
     headers = {
         "Authorization": f"Bearer {token}",
-        "Content-type": "application/json,
+        "Content-type": "application/json",
     }
  
     url = "https://example.org/api/data"
-    page = 0
 
     resp = requests.post(url, headers=headers, json={"foo": "bar"})
     return result
